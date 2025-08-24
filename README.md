@@ -1,2 +1,2 @@
 # BrowserScrapperAgent
-Allows you to extract images and text from any website
+Allows you to extract images and text from any website!
